@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pwa-react-test-demo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pwa-react-test-demo/static/js/main.a75dd9d8.chunk.js",
+    "main.js.map": "/pwa-react-test-demo/static/js/main.a75dd9d8.chunk.js.map",
+    "runtime-main.js": "/pwa-react-test-demo/static/js/runtime-main.2da455aa.js",
+    "runtime-main.js.map": "/pwa-react-test-demo/static/js/runtime-main.2da455aa.js.map",
+    "static/js/2.d6233653.chunk.js": "/pwa-react-test-demo/static/js/2.d6233653.chunk.js",
+    "static/js/2.d6233653.chunk.js.map": "/pwa-react-test-demo/static/js/2.d6233653.chunk.js.map",
+    "static/js/3.3130f3c5.chunk.js": "/pwa-react-test-demo/static/js/3.3130f3c5.chunk.js",
+    "static/js/3.3130f3c5.chunk.js.map": "/pwa-react-test-demo/static/js/3.3130f3c5.chunk.js.map",
+    "index.html": "/pwa-react-test-demo/index.html",
+    "service-worker.js": "/pwa-react-test-demo/service-worker.js",
+    "service-worker.js.map": "/pwa-react-test-demo/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pwa-react-test-demo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d6233653.chunk.js.LICENSE.txt": "/pwa-react-test-demo/static/js/2.d6233653.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/pwa-react-test-demo/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2da455aa.js",
+    "static/js/2.d6233653.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a75dd9d8.chunk.js"
+  ]
+}
